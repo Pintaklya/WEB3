@@ -1,6 +1,10 @@
+```
 __pycache__/
 venv/
 .vscode/
+.idea/
 .env
 dist/
+build/
 .pytest_cache/
+```
